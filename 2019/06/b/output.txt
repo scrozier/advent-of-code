@@ -1,0 +1,1388 @@
+67
+you_to_com: 8GB
+san_to_com: 84K
+num steps from YOU to YVD
+orbited: YMQ
+@name: YOU, planet.name: YVD, equal? false
+num steps from YMQ to YVD
+orbited: 2CC
+@name: YMQ, planet.name: YVD, equal? false
+num steps from 2CC to YVD
+orbited: K75
+@name: 2CC, planet.name: YVD, equal? false
+num steps from K75 to YVD
+orbited: D5K
+@name: K75, planet.name: YVD, equal? false
+num steps from D5K to YVD
+orbited: RR5
+@name: D5K, planet.name: YVD, equal? false
+num steps from RR5 to YVD
+orbited: V6K
+@name: RR5, planet.name: YVD, equal? false
+num steps from V6K to YVD
+orbited: NYR
+@name: V6K, planet.name: YVD, equal? false
+num steps from NYR to YVD
+orbited: KB7
+@name: NYR, planet.name: YVD, equal? false
+num steps from KB7 to YVD
+orbited: DFD
+@name: KB7, planet.name: YVD, equal? false
+num steps from DFD to YVD
+orbited: D5R
+@name: DFD, planet.name: YVD, equal? false
+num steps from D5R to YVD
+orbited: NW3
+@name: D5R, planet.name: YVD, equal? false
+num steps from NW3 to YVD
+orbited: 58Z
+@name: NW3, planet.name: YVD, equal? false
+num steps from 58Z to YVD
+orbited: CRL
+@name: 58Z, planet.name: YVD, equal? false
+num steps from CRL to YVD
+orbited: 9B5
+@name: CRL, planet.name: YVD, equal? false
+num steps from 9B5 to YVD
+orbited: JQK
+@name: 9B5, planet.name: YVD, equal? false
+num steps from JQK to YVD
+orbited: Q2T
+@name: JQK, planet.name: YVD, equal? false
+num steps from Q2T to YVD
+orbited: LSN
+@name: Q2T, planet.name: YVD, equal? false
+num steps from LSN to YVD
+orbited: Q3L
+@name: LSN, planet.name: YVD, equal? false
+num steps from Q3L to YVD
+orbited: 1V3
+@name: Q3L, planet.name: YVD, equal? false
+num steps from 1V3 to YVD
+orbited: ZJN
+@name: 1V3, planet.name: YVD, equal? false
+num steps from ZJN to YVD
+orbited: 26R
+@name: ZJN, planet.name: YVD, equal? false
+num steps from 26R to YVD
+orbited: XVK
+@name: 26R, planet.name: YVD, equal? false
+num steps from XVK to YVD
+orbited: 3RB
+@name: XVK, planet.name: YVD, equal? false
+num steps from 3RB to YVD
+orbited: Q2J
+@name: 3RB, planet.name: YVD, equal? false
+num steps from Q2J to YVD
+orbited: R5G
+@name: Q2J, planet.name: YVD, equal? false
+num steps from R5G to YVD
+orbited: FRM
+@name: R5G, planet.name: YVD, equal? false
+num steps from FRM to YVD
+orbited: CXL
+@name: FRM, planet.name: YVD, equal? false
+num steps from CXL to YVD
+orbited: M4P
+@name: CXL, planet.name: YVD, equal? false
+num steps from M4P to YVD
+orbited: 6ZF
+@name: M4P, planet.name: YVD, equal? false
+num steps from 6ZF to YVD
+orbited: C1F
+@name: 6ZF, planet.name: YVD, equal? false
+num steps from C1F to YVD
+orbited: NFG
+@name: C1F, planet.name: YVD, equal? false
+num steps from NFG to YVD
+orbited: 21R
+@name: NFG, planet.name: YVD, equal? false
+num steps from 21R to YVD
+orbited: 9TH
+@name: 21R, planet.name: YVD, equal? false
+num steps from 9TH to YVD
+orbited: 3VL
+@name: 9TH, planet.name: YVD, equal? false
+num steps from 3VL to YVD
+orbited: GKY
+@name: 3VL, planet.name: YVD, equal? false
+num steps from GKY to YVD
+orbited: 1K2
+@name: GKY, planet.name: YVD, equal? false
+num steps from 1K2 to YVD
+orbited: WQ3
+@name: 1K2, planet.name: YVD, equal? false
+num steps from WQ3 to YVD
+orbited: 74V
+@name: WQ3, planet.name: YVD, equal? false
+num steps from 74V to YVD
+orbited: 5VQ
+@name: 74V, planet.name: YVD, equal? false
+num steps from 5VQ to YVD
+orbited: XTG
+@name: 5VQ, planet.name: YVD, equal? false
+num steps from XTG to YVD
+orbited: RSC
+@name: XTG, planet.name: YVD, equal? false
+num steps from RSC to YVD
+orbited: 9SB
+@name: RSC, planet.name: YVD, equal? false
+num steps from 9SB to YVD
+orbited: 7F8
+@name: 9SB, planet.name: YVD, equal? false
+num steps from 7F8 to YVD
+orbited: RQ7
+@name: 7F8, planet.name: YVD, equal? false
+num steps from RQ7 to YVD
+orbited: 1M3
+@name: RQ7, planet.name: YVD, equal? false
+num steps from 1M3 to YVD
+orbited: PBG
+@name: 1M3, planet.name: YVD, equal? false
+num steps from PBG to YVD
+orbited: 282
+@name: PBG, planet.name: YVD, equal? false
+num steps from 282 to YVD
+orbited: 2Y3
+@name: 282, planet.name: YVD, equal? false
+num steps from 2Y3 to YVD
+orbited: 1DV
+@name: 2Y3, planet.name: YVD, equal? false
+num steps from 1DV to YVD
+orbited: BSG
+@name: 1DV, planet.name: YVD, equal? false
+num steps from BSG to YVD
+orbited: DQ8
+@name: BSG, planet.name: YVD, equal? false
+num steps from DQ8 to YVD
+orbited: YXM
+@name: DQ8, planet.name: YVD, equal? false
+num steps from YXM to YVD
+orbited: V8R
+@name: YXM, planet.name: YVD, equal? false
+num steps from V8R to YVD
+orbited: JJ8
+@name: V8R, planet.name: YVD, equal? false
+num steps from JJ8 to YVD
+orbited: WFC
+@name: JJ8, planet.name: YVD, equal? false
+num steps from WFC to YVD
+orbited: WTG
+@name: WFC, planet.name: YVD, equal? false
+num steps from WTG to YVD
+orbited: NQC
+@name: WTG, planet.name: YVD, equal? false
+num steps from NQC to YVD
+orbited: BM6
+@name: NQC, planet.name: YVD, equal? false
+num steps from BM6 to YVD
+orbited: RLM
+@name: BM6, planet.name: YVD, equal? false
+num steps from RLM to YVD
+orbited: 7QS
+@name: RLM, planet.name: YVD, equal? false
+num steps from 7QS to YVD
+orbited: HTF
+@name: 7QS, planet.name: YVD, equal? false
+num steps from HTF to YVD
+orbited: S3T
+@name: HTF, planet.name: YVD, equal? false
+num steps from S3T to YVD
+orbited: 1MC
+@name: S3T, planet.name: YVD, equal? false
+num steps from 1MC to YVD
+orbited: LBS
+@name: 1MC, planet.name: YVD, equal? false
+num steps from LBS to YVD
+orbited: 64J
+@name: LBS, planet.name: YVD, equal? false
+num steps from 64J to YVD
+orbited: SR7
+@name: 64J, planet.name: YVD, equal? false
+num steps from SR7 to YVD
+orbited: NY9
+@name: SR7, planet.name: YVD, equal? false
+num steps from NY9 to YVD
+orbited: WXM
+@name: NY9, planet.name: YVD, equal? false
+num steps from WXM to YVD
+orbited: Z34
+@name: WXM, planet.name: YVD, equal? false
+num steps from Z34 to YVD
+orbited: F26
+@name: Z34, planet.name: YVD, equal? false
+num steps from F26 to YVD
+orbited: NK7
+@name: F26, planet.name: YVD, equal? false
+num steps from NK7 to YVD
+orbited: BQ9
+@name: NK7, planet.name: YVD, equal? false
+num steps from BQ9 to YVD
+orbited: H2W
+@name: BQ9, planet.name: YVD, equal? false
+num steps from H2W to YVD
+orbited: Q65
+@name: H2W, planet.name: YVD, equal? false
+num steps from Q65 to YVD
+orbited: 5G6
+@name: Q65, planet.name: YVD, equal? false
+num steps from 5G6 to YVD
+orbited: 5SB
+@name: 5G6, planet.name: YVD, equal? false
+num steps from 5SB to YVD
+orbited: W3X
+@name: 5SB, planet.name: YVD, equal? false
+num steps from W3X to YVD
+orbited: MYX
+@name: W3X, planet.name: YVD, equal? false
+num steps from MYX to YVD
+orbited: 4YD
+@name: MYX, planet.name: YVD, equal? false
+num steps from 4YD to YVD
+orbited: 6VR
+@name: 4YD, planet.name: YVD, equal? false
+num steps from 6VR to YVD
+orbited: P3B
+@name: 6VR, planet.name: YVD, equal? false
+num steps from P3B to YVD
+orbited: M5F
+@name: P3B, planet.name: YVD, equal? false
+num steps from M5F to YVD
+orbited: LXR
+@name: M5F, planet.name: YVD, equal? false
+num steps from LXR to YVD
+orbited: FSM
+@name: LXR, planet.name: YVD, equal? false
+num steps from FSM to YVD
+orbited: SWG
+@name: FSM, planet.name: YVD, equal? false
+num steps from SWG to YVD
+orbited: GFR
+@name: SWG, planet.name: YVD, equal? false
+num steps from GFR to YVD
+orbited: YG4
+@name: GFR, planet.name: YVD, equal? false
+num steps from YG4 to YVD
+orbited: WFT
+@name: YG4, planet.name: YVD, equal? false
+num steps from WFT to YVD
+orbited: PSM
+@name: WFT, planet.name: YVD, equal? false
+num steps from PSM to YVD
+orbited: Y96
+@name: PSM, planet.name: YVD, equal? false
+num steps from Y96 to YVD
+orbited: WY3
+@name: Y96, planet.name: YVD, equal? false
+num steps from WY3 to YVD
+orbited: VZP
+@name: WY3, planet.name: YVD, equal? false
+num steps from VZP to YVD
+orbited: 9QL
+@name: VZP, planet.name: YVD, equal? false
+num steps from 9QL to YVD
+orbited: X75
+@name: 9QL, planet.name: YVD, equal? false
+num steps from X75 to YVD
+orbited: 4VX
+@name: X75, planet.name: YVD, equal? false
+num steps from 4VX to YVD
+orbited: HYD
+@name: 4VX, planet.name: YVD, equal? false
+num steps from HYD to YVD
+orbited: BSP
+@name: HYD, planet.name: YVD, equal? false
+num steps from BSP to YVD
+orbited: P1X
+@name: BSP, planet.name: YVD, equal? false
+num steps from P1X to YVD
+orbited: PTM
+@name: P1X, planet.name: YVD, equal? false
+num steps from PTM to YVD
+orbited: ZWR
+@name: PTM, planet.name: YVD, equal? false
+num steps from ZWR to YVD
+orbited: 9DD
+@name: ZWR, planet.name: YVD, equal? false
+num steps from 9DD to YVD
+orbited: TZM
+@name: 9DD, planet.name: YVD, equal? false
+num steps from TZM to YVD
+orbited: TVQ
+@name: TZM, planet.name: YVD, equal? false
+num steps from TVQ to YVD
+orbited: NLG
+@name: TVQ, planet.name: YVD, equal? false
+num steps from NLG to YVD
+orbited: SFY
+@name: NLG, planet.name: YVD, equal? false
+num steps from SFY to YVD
+orbited: NNF
+@name: SFY, planet.name: YVD, equal? false
+num steps from NNF to YVD
+orbited: 8HF
+@name: NNF, planet.name: YVD, equal? false
+num steps from 8HF to YVD
+orbited: Z2C
+@name: 8HF, planet.name: YVD, equal? false
+num steps from Z2C to YVD
+orbited: P6M
+@name: Z2C, planet.name: YVD, equal? false
+num steps from P6M to YVD
+orbited: TCT
+@name: P6M, planet.name: YVD, equal? false
+num steps from TCT to YVD
+orbited: J15
+@name: TCT, planet.name: YVD, equal? false
+num steps from J15 to YVD
+orbited: W59
+@name: J15, planet.name: YVD, equal? false
+num steps from W59 to YVD
+orbited: 9RZ
+@name: W59, planet.name: YVD, equal? false
+num steps from 9RZ to YVD
+orbited: XDJ
+@name: 9RZ, planet.name: YVD, equal? false
+num steps from XDJ to YVD
+orbited: KLD
+@name: XDJ, planet.name: YVD, equal? false
+num steps from KLD to YVD
+orbited: 5MJ
+@name: KLD, planet.name: YVD, equal? false
+num steps from 5MJ to YVD
+orbited: 2L2
+@name: 5MJ, planet.name: YVD, equal? false
+num steps from 2L2 to YVD
+orbited: 35D
+@name: 2L2, planet.name: YVD, equal? false
+num steps from 35D to YVD
+orbited: NSG
+@name: 35D, planet.name: YVD, equal? false
+num steps from NSG to YVD
+orbited: 2XT
+@name: NSG, planet.name: YVD, equal? false
+num steps from 2XT to YVD
+orbited: CFQ
+@name: 2XT, planet.name: YVD, equal? false
+num steps from CFQ to YVD
+orbited: C33
+@name: CFQ, planet.name: YVD, equal? false
+num steps from C33 to YVD
+orbited: MD4
+@name: C33, planet.name: YVD, equal? false
+num steps from MD4 to YVD
+orbited: 6D8
+@name: MD4, planet.name: YVD, equal? false
+num steps from 6D8 to YVD
+orbited: X35
+@name: 6D8, planet.name: YVD, equal? false
+num steps from X35 to YVD
+orbited: GHM
+@name: X35, planet.name: YVD, equal? false
+num steps from GHM to YVD
+orbited: W39
+@name: GHM, planet.name: YVD, equal? false
+num steps from W39 to YVD
+orbited: KXB
+@name: W39, planet.name: YVD, equal? false
+num steps from KXB to YVD
+orbited: 6J6
+@name: KXB, planet.name: YVD, equal? false
+num steps from 6J6 to YVD
+orbited: XGN
+@name: 6J6, planet.name: YVD, equal? false
+num steps from XGN to YVD
+orbited: K3T
+@name: XGN, planet.name: YVD, equal? false
+num steps from K3T to YVD
+orbited: 7SV
+@name: K3T, planet.name: YVD, equal? false
+num steps from 7SV to YVD
+orbited: JDN
+@name: 7SV, planet.name: YVD, equal? false
+num steps from JDN to YVD
+orbited: 7FL
+@name: JDN, planet.name: YVD, equal? false
+num steps from 7FL to YVD
+orbited: CPH
+@name: 7FL, planet.name: YVD, equal? false
+num steps from CPH to YVD
+orbited: 5B4
+@name: CPH, planet.name: YVD, equal? false
+num steps from 5B4 to YVD
+orbited: ZBR
+@name: 5B4, planet.name: YVD, equal? false
+num steps from ZBR to YVD
+orbited: MX4
+@name: ZBR, planet.name: YVD, equal? false
+num steps from MX4 to YVD
+orbited: 82X
+@name: MX4, planet.name: YVD, equal? false
+num steps from 82X to YVD
+orbited: 7WB
+@name: 82X, planet.name: YVD, equal? false
+num steps from 7WB to YVD
+orbited: NVB
+@name: 7WB, planet.name: YVD, equal? false
+num steps from NVB to YVD
+orbited: G1B
+@name: NVB, planet.name: YVD, equal? false
+num steps from G1B to YVD
+orbited: L4V
+@name: G1B, planet.name: YVD, equal? false
+num steps from L4V to YVD
+orbited: W6P
+@name: L4V, planet.name: YVD, equal? false
+num steps from W6P to YVD
+orbited: 52G
+@name: W6P, planet.name: YVD, equal? false
+num steps from 52G to YVD
+orbited: 4RT
+@name: 52G, planet.name: YVD, equal? false
+num steps from 4RT to YVD
+orbited: 5VY
+@name: 4RT, planet.name: YVD, equal? false
+num steps from 5VY to YVD
+orbited: TSN
+@name: 5VY, planet.name: YVD, equal? false
+num steps from TSN to YVD
+orbited: 7Q5
+@name: TSN, planet.name: YVD, equal? false
+num steps from 7Q5 to YVD
+orbited: XRK
+@name: 7Q5, planet.name: YVD, equal? false
+num steps from XRK to YVD
+orbited: Y8H
+@name: XRK, planet.name: YVD, equal? false
+num steps from Y8H to YVD
+orbited: DCC
+@name: Y8H, planet.name: YVD, equal? false
+num steps from DCC to YVD
+orbited: VD8
+@name: DCC, planet.name: YVD, equal? false
+num steps from VD8 to YVD
+orbited: W8S
+@name: VD8, planet.name: YVD, equal? false
+num steps from W8S to YVD
+orbited: CVZ
+@name: W8S, planet.name: YVD, equal? false
+num steps from CVZ to YVD
+orbited: SJB
+@name: CVZ, planet.name: YVD, equal? false
+num steps from SJB to YVD
+orbited: 719
+@name: SJB, planet.name: YVD, equal? false
+num steps from 719 to YVD
+orbited: XDR
+@name: 719, planet.name: YVD, equal? false
+num steps from XDR to YVD
+orbited: LRZ
+@name: XDR, planet.name: YVD, equal? false
+num steps from LRZ to YVD
+orbited: YRZ
+@name: LRZ, planet.name: YVD, equal? false
+num steps from YRZ to YVD
+orbited: 726
+@name: YRZ, planet.name: YVD, equal? false
+num steps from 726 to YVD
+orbited: BDQ
+@name: 726, planet.name: YVD, equal? false
+num steps from BDQ to YVD
+orbited: FFV
+@name: BDQ, planet.name: YVD, equal? false
+num steps from FFV to YVD
+orbited: 6L3
+@name: FFV, planet.name: YVD, equal? false
+num steps from 6L3 to YVD
+orbited: MZZ
+@name: 6L3, planet.name: YVD, equal? false
+num steps from MZZ to YVD
+orbited: LKF
+@name: MZZ, planet.name: YVD, equal? false
+num steps from LKF to YVD
+orbited: T6C
+@name: LKF, planet.name: YVD, equal? false
+num steps from T6C to YVD
+orbited: RFV
+@name: T6C, planet.name: YVD, equal? false
+num steps from RFV to YVD
+orbited: K84
+@name: RFV, planet.name: YVD, equal? false
+num steps from K84 to YVD
+orbited: 3CS
+@name: K84, planet.name: YVD, equal? false
+num steps from 3CS to YVD
+orbited: D19
+@name: 3CS, planet.name: YVD, equal? false
+num steps from D19 to YVD
+orbited: 82C
+@name: D19, planet.name: YVD, equal? false
+num steps from 82C to YVD
+orbited: KVL
+@name: 82C, planet.name: YVD, equal? false
+num steps from KVL to YVD
+orbited: J94
+@name: KVL, planet.name: YVD, equal? false
+num steps from J94 to YVD
+orbited: T1M
+@name: J94, planet.name: YVD, equal? false
+num steps from T1M to YVD
+orbited: KQ7
+@name: T1M, planet.name: YVD, equal? false
+num steps from KQ7 to YVD
+orbited: QBT
+@name: KQ7, planet.name: YVD, equal? false
+num steps from QBT to YVD
+orbited: N52
+@name: QBT, planet.name: YVD, equal? false
+num steps from N52 to YVD
+orbited: TT6
+@name: N52, planet.name: YVD, equal? false
+num steps from TT6 to YVD
+orbited: NMV
+@name: TT6, planet.name: YVD, equal? false
+num steps from NMV to YVD
+orbited: MJP
+@name: NMV, planet.name: YVD, equal? false
+num steps from MJP to YVD
+orbited: 8HY
+@name: MJP, planet.name: YVD, equal? false
+num steps from 8HY to YVD
+orbited: YHM
+@name: 8HY, planet.name: YVD, equal? false
+num steps from YHM to YVD
+orbited: R2C
+@name: YHM, planet.name: YVD, equal? false
+num steps from R2C to YVD
+orbited: 7TN
+@name: R2C, planet.name: YVD, equal? false
+num steps from 7TN to YVD
+orbited: FJZ
+@name: 7TN, planet.name: YVD, equal? false
+num steps from FJZ to YVD
+orbited: VGZ
+@name: FJZ, planet.name: YVD, equal? false
+num steps from VGZ to YVD
+orbited: 72P
+@name: VGZ, planet.name: YVD, equal? false
+num steps from 72P to YVD
+orbited: FY8
+@name: 72P, planet.name: YVD, equal? false
+num steps from FY8 to YVD
+orbited: W97
+@name: FY8, planet.name: YVD, equal? false
+num steps from W97 to YVD
+orbited: 45G
+@name: W97, planet.name: YVD, equal? false
+num steps from 45G to YVD
+orbited: KW6
+@name: 45G, planet.name: YVD, equal? false
+num steps from KW6 to YVD
+orbited: NXT
+@name: KW6, planet.name: YVD, equal? false
+num steps from NXT to YVD
+orbited: YB6
+@name: NXT, planet.name: YVD, equal? false
+num steps from YB6 to YVD
+orbited: VFD
+@name: YB6, planet.name: YVD, equal? false
+num steps from VFD to YVD
+orbited: WVD
+@name: VFD, planet.name: YVD, equal? false
+num steps from WVD to YVD
+orbited: 31T
+@name: WVD, planet.name: YVD, equal? false
+num steps from 31T to YVD
+orbited: DJC
+@name: 31T, planet.name: YVD, equal? false
+num steps from DJC to YVD
+orbited: RK1
+@name: DJC, planet.name: YVD, equal? false
+num steps from RK1 to YVD
+orbited: 7XK
+@name: RK1, planet.name: YVD, equal? false
+num steps from 7XK to YVD
+orbited: 6S2
+@name: 7XK, planet.name: YVD, equal? false
+num steps from 6S2 to YVD
+orbited: 126
+@name: 6S2, planet.name: YVD, equal? false
+num steps from 126 to YVD
+orbited: BB9
+@name: 126, planet.name: YVD, equal? false
+num steps from BB9 to YVD
+orbited: 2SH
+@name: BB9, planet.name: YVD, equal? false
+num steps from 2SH to YVD
+orbited: MZY
+@name: 2SH, planet.name: YVD, equal? false
+num steps from MZY to YVD
+orbited: 7DP
+@name: MZY, planet.name: YVD, equal? false
+num steps from 7DP to YVD
+orbited: Q5J
+@name: 7DP, planet.name: YVD, equal? false
+num steps from Q5J to YVD
+orbited: 6VV
+@name: Q5J, planet.name: YVD, equal? false
+num steps from 6VV to YVD
+orbited: K9K
+@name: 6VV, planet.name: YVD, equal? false
+num steps from K9K to YVD
+orbited: BJZ
+@name: K9K, planet.name: YVD, equal? false
+num steps from BJZ to YVD
+orbited: TZT
+@name: BJZ, planet.name: YVD, equal? false
+num steps from TZT to YVD
+orbited: H85
+@name: TZT, planet.name: YVD, equal? false
+num steps from H85 to YVD
+orbited: 1DW
+@name: H85, planet.name: YVD, equal? false
+num steps from 1DW to YVD
+orbited: K8Q
+@name: 1DW, planet.name: YVD, equal? false
+num steps from K8Q to YVD
+orbited: NN7
+@name: K8Q, planet.name: YVD, equal? false
+num steps from NN7 to YVD
+orbited: H5Y
+@name: NN7, planet.name: YVD, equal? false
+num steps from H5Y to YVD
+orbited: P2D
+@name: H5Y, planet.name: YVD, equal? false
+num steps from P2D to YVD
+orbited: W96
+@name: P2D, planet.name: YVD, equal? false
+num steps from W96 to YVD
+orbited: H4F
+@name: W96, planet.name: YVD, equal? false
+num steps from H4F to YVD
+orbited: H9P
+@name: H4F, planet.name: YVD, equal? false
+num steps from H9P to YVD
+orbited: ZGX
+@name: H9P, planet.name: YVD, equal? false
+num steps from ZGX to YVD
+orbited: ND4
+@name: ZGX, planet.name: YVD, equal? false
+num steps from ND4 to YVD
+orbited: HNR
+@name: ND4, planet.name: YVD, equal? false
+num steps from HNR to YVD
+orbited: PLB
+@name: HNR, planet.name: YVD, equal? false
+num steps from PLB to YVD
+orbited: 361
+@name: PLB, planet.name: YVD, equal? false
+num steps from 361 to YVD
+orbited: 9D7
+@name: 361, planet.name: YVD, equal? false
+num steps from 9D7 to YVD
+orbited: KRT
+@name: 9D7, planet.name: YVD, equal? false
+num steps from KRT to YVD
+orbited: 4DT
+@name: KRT, planet.name: YVD, equal? false
+num steps from 4DT to YVD
+orbited: MVP
+@name: 4DT, planet.name: YVD, equal? false
+num steps from MVP to YVD
+orbited: 4R5
+@name: MVP, planet.name: YVD, equal? false
+num steps from 4R5 to YVD
+orbited: J1W
+@name: 4R5, planet.name: YVD, equal? false
+num steps from J1W to YVD
+orbited: DN8
+@name: J1W, planet.name: YVD, equal? false
+num steps from DN8 to YVD
+orbited: FMZ
+@name: DN8, planet.name: YVD, equal? false
+num steps from FMZ to YVD
+orbited: H8L
+@name: FMZ, planet.name: YVD, equal? false
+num steps from H8L to YVD
+orbited: FJM
+@name: H8L, planet.name: YVD, equal? false
+num steps from FJM to YVD
+orbited: WL7
+@name: FJM, planet.name: YVD, equal? false
+num steps from WL7 to YVD
+orbited: D43
+@name: WL7, planet.name: YVD, equal? false
+num steps from D43 to YVD
+orbited: X2L
+@name: D43, planet.name: YVD, equal? false
+num steps from X2L to YVD
+orbited: 6BY
+@name: X2L, planet.name: YVD, equal? false
+num steps from 6BY to YVD
+orbited: RWL
+@name: 6BY, planet.name: YVD, equal? false
+num steps from RWL to YVD
+orbited: 9RT
+@name: RWL, planet.name: YVD, equal? false
+num steps from 9RT to YVD
+orbited: WDY
+@name: 9RT, planet.name: YVD, equal? false
+num steps from WDY to YVD
+orbited: Y8V
+@name: WDY, planet.name: YVD, equal? false
+num steps from Y8V to YVD
+orbited: B4X
+@name: Y8V, planet.name: YVD, equal? false
+num steps from B4X to YVD
+orbited: 8GB
+@name: B4X, planet.name: YVD, equal? false
+num steps from 8GB to YVD
+orbited: YVD
+@name: 8GB, planet.name: YVD, equal? false
+num steps from YVD to YVD
+orbited: GWM
+@name: YVD, planet.name: YVD, equal? true
+*****************
+num steps from SAN to YVD
+orbited: HZ2
+@name: SAN, planet.name: YVD, equal? false
+num steps from HZ2 to YVD
+orbited: 979
+@name: HZ2, planet.name: YVD, equal? false
+num steps from 979 to YVD
+orbited: Q62
+@name: 979, planet.name: YVD, equal? false
+num steps from Q62 to YVD
+orbited: YT5
+@name: Q62, planet.name: YVD, equal? false
+num steps from YT5 to YVD
+orbited: Y7F
+@name: YT5, planet.name: YVD, equal? false
+num steps from Y7F to YVD
+orbited: 5RN
+@name: Y7F, planet.name: YVD, equal? false
+num steps from 5RN to YVD
+orbited: T5H
+@name: 5RN, planet.name: YVD, equal? false
+num steps from T5H to YVD
+orbited: MRM
+@name: T5H, planet.name: YVD, equal? false
+num steps from MRM to YVD
+orbited: FVV
+@name: MRM, planet.name: YVD, equal? false
+num steps from FVV to YVD
+orbited: TWL
+@name: FVV, planet.name: YVD, equal? false
+num steps from TWL to YVD
+orbited: 717
+@name: TWL, planet.name: YVD, equal? false
+num steps from 717 to YVD
+orbited: BNR
+@name: 717, planet.name: YVD, equal? false
+num steps from BNR to YVD
+orbited: NYT
+@name: BNR, planet.name: YVD, equal? false
+num steps from NYT to YVD
+orbited: D8V
+@name: NYT, planet.name: YVD, equal? false
+num steps from D8V to YVD
+orbited: P2F
+@name: D8V, planet.name: YVD, equal? false
+num steps from P2F to YVD
+orbited: 867
+@name: P2F, planet.name: YVD, equal? false
+num steps from 867 to YVD
+orbited: JXS
+@name: 867, planet.name: YVD, equal? false
+num steps from JXS to YVD
+orbited: ZZL
+@name: JXS, planet.name: YVD, equal? false
+num steps from ZZL to YVD
+orbited: 944
+@name: ZZL, planet.name: YVD, equal? false
+num steps from 944 to YVD
+orbited: 6B1
+@name: 944, planet.name: YVD, equal? false
+num steps from 6B1 to YVD
+orbited: 32M
+@name: 6B1, planet.name: YVD, equal? false
+num steps from 32M to YVD
+orbited: VM6
+@name: 32M, planet.name: YVD, equal? false
+num steps from VM6 to YVD
+orbited: MC9
+@name: VM6, planet.name: YVD, equal? false
+num steps from MC9 to YVD
+orbited: 5C8
+@name: MC9, planet.name: YVD, equal? false
+num steps from 5C8 to YVD
+orbited: FNC
+@name: 5C8, planet.name: YVD, equal? false
+num steps from FNC to YVD
+orbited: P8H
+@name: FNC, planet.name: YVD, equal? false
+num steps from P8H to YVD
+orbited: TWG
+@name: P8H, planet.name: YVD, equal? false
+num steps from TWG to YVD
+orbited: GKX
+@name: TWG, planet.name: YVD, equal? false
+num steps from GKX to YVD
+orbited: 35Z
+@name: GKX, planet.name: YVD, equal? false
+num steps from 35Z to YVD
+orbited: B5R
+@name: 35Z, planet.name: YVD, equal? false
+num steps from B5R to YVD
+orbited: YCR
+@name: B5R, planet.name: YVD, equal? false
+num steps from YCR to YVD
+orbited: MRW
+@name: YCR, planet.name: YVD, equal? false
+num steps from MRW to YVD
+orbited: FLK
+@name: MRW, planet.name: YVD, equal? false
+num steps from FLK to YVD
+orbited: 3QB
+@name: FLK, planet.name: YVD, equal? false
+num steps from 3QB to YVD
+orbited: D3P
+@name: 3QB, planet.name: YVD, equal? false
+num steps from D3P to YVD
+orbited: 2WC
+@name: D3P, planet.name: YVD, equal? false
+num steps from 2WC to YVD
+orbited: B6L
+@name: 2WC, planet.name: YVD, equal? false
+num steps from B6L to YVD
+orbited: 6TC
+@name: B6L, planet.name: YVD, equal? false
+num steps from 6TC to YVD
+orbited: 3KV
+@name: 6TC, planet.name: YVD, equal? false
+num steps from 3KV to YVD
+orbited: SQN
+@name: 3KV, planet.name: YVD, equal? false
+num steps from SQN to YVD
+orbited: HRX
+@name: SQN, planet.name: YVD, equal? false
+num steps from HRX to YVD
+orbited: ZQD
+@name: HRX, planet.name: YVD, equal? false
+num steps from ZQD to YVD
+orbited: V9B
+@name: ZQD, planet.name: YVD, equal? false
+num steps from V9B to YVD
+orbited: V59
+@name: V9B, planet.name: YVD, equal? false
+num steps from V59 to YVD
+orbited: PPY
+@name: V59, planet.name: YVD, equal? false
+num steps from PPY to YVD
+orbited: LTY
+@name: PPY, planet.name: YVD, equal? false
+num steps from LTY to YVD
+orbited: CV4
+@name: LTY, planet.name: YVD, equal? false
+num steps from CV4 to YVD
+orbited: VZR
+@name: CV4, planet.name: YVD, equal? false
+num steps from VZR to YVD
+orbited: F7C
+@name: VZR, planet.name: YVD, equal? false
+num steps from F7C to YVD
+orbited: GYS
+@name: F7C, planet.name: YVD, equal? false
+num steps from GYS to YVD
+orbited: 914
+@name: GYS, planet.name: YVD, equal? false
+num steps from 914 to YVD
+orbited: 1BN
+@name: 914, planet.name: YVD, equal? false
+num steps from 1BN to YVD
+orbited: HYX
+@name: 1BN, planet.name: YVD, equal? false
+num steps from HYX to YVD
+orbited: 38M
+@name: HYX, planet.name: YVD, equal? false
+num steps from 38M to YVD
+orbited: 46W
+@name: 38M, planet.name: YVD, equal? false
+num steps from 46W to YVD
+orbited: P7B
+@name: 46W, planet.name: YVD, equal? false
+num steps from P7B to YVD
+orbited: 8S9
+@name: P7B, planet.name: YVD, equal? false
+num steps from 8S9 to YVD
+orbited: CQ3
+@name: 8S9, planet.name: YVD, equal? false
+num steps from CQ3 to YVD
+orbited: JRJ
+@name: CQ3, planet.name: YVD, equal? false
+num steps from JRJ to YVD
+orbited: 6W2
+@name: JRJ, planet.name: YVD, equal? false
+num steps from 6W2 to YVD
+orbited: QKF
+@name: 6W2, planet.name: YVD, equal? false
+num steps from QKF to YVD
+orbited: WJP
+@name: QKF, planet.name: YVD, equal? false
+num steps from WJP to YVD
+orbited: SLZ
+@name: WJP, planet.name: YVD, equal? false
+num steps from SLZ to YVD
+orbited: WL9
+@name: SLZ, planet.name: YVD, equal? false
+num steps from WL9 to YVD
+orbited: 5CG
+@name: WL9, planet.name: YVD, equal? false
+num steps from 5CG to YVD
+orbited: 4LJ
+@name: 5CG, planet.name: YVD, equal? false
+num steps from 4LJ to YVD
+orbited: S8M
+@name: 4LJ, planet.name: YVD, equal? false
+num steps from S8M to YVD
+orbited: 17P
+@name: S8M, planet.name: YVD, equal? false
+num steps from 17P to YVD
+orbited: 5VG
+@name: 17P, planet.name: YVD, equal? false
+num steps from 5VG to YVD
+orbited: WH7
+@name: 5VG, planet.name: YVD, equal? false
+num steps from WH7 to YVD
+orbited: NZZ
+@name: WH7, planet.name: YVD, equal? false
+num steps from NZZ to YVD
+orbited: 6WW
+@name: NZZ, planet.name: YVD, equal? false
+num steps from 6WW to YVD
+orbited: KW7
+@name: 6WW, planet.name: YVD, equal? false
+num steps from KW7 to YVD
+orbited: WYY
+@name: KW7, planet.name: YVD, equal? false
+num steps from WYY to YVD
+orbited: J4C
+@name: WYY, planet.name: YVD, equal? false
+num steps from J4C to YVD
+orbited: HC5
+@name: J4C, planet.name: YVD, equal? false
+num steps from HC5 to YVD
+orbited: XZS
+@name: HC5, planet.name: YVD, equal? false
+num steps from XZS to YVD
+orbited: L29
+@name: XZS, planet.name: YVD, equal? false
+num steps from L29 to YVD
+orbited: GGN
+@name: L29, planet.name: YVD, equal? false
+num steps from GGN to YVD
+orbited: J64
+@name: GGN, planet.name: YVD, equal? false
+num steps from J64 to YVD
+orbited: CHS
+@name: J64, planet.name: YVD, equal? false
+num steps from CHS to YVD
+orbited: PB6
+@name: CHS, planet.name: YVD, equal? false
+num steps from PB6 to YVD
+orbited: 3XS
+@name: PB6, planet.name: YVD, equal? false
+num steps from 3XS to YVD
+orbited: VKF
+@name: 3XS, planet.name: YVD, equal? false
+num steps from VKF to YVD
+orbited: DNT
+@name: VKF, planet.name: YVD, equal? false
+num steps from DNT to YVD
+orbited: TVM
+@name: DNT, planet.name: YVD, equal? false
+num steps from TVM to YVD
+orbited: H2L
+@name: TVM, planet.name: YVD, equal? false
+num steps from H2L to YVD
+orbited: T4W
+@name: H2L, planet.name: YVD, equal? false
+num steps from T4W to YVD
+orbited: 2MD
+@name: T4W, planet.name: YVD, equal? false
+num steps from 2MD to YVD
+orbited: 9FH
+@name: 2MD, planet.name: YVD, equal? false
+num steps from 9FH to YVD
+orbited: 4NZ
+@name: 9FH, planet.name: YVD, equal? false
+num steps from 4NZ to YVD
+orbited: 6N1
+@name: 4NZ, planet.name: YVD, equal? false
+num steps from 6N1 to YVD
+orbited: HT6
+@name: 6N1, planet.name: YVD, equal? false
+num steps from HT6 to YVD
+orbited: 2Z9
+@name: HT6, planet.name: YVD, equal? false
+num steps from 2Z9 to YVD
+orbited: 1XZ
+@name: 2Z9, planet.name: YVD, equal? false
+num steps from 1XZ to YVD
+orbited: S2D
+@name: 1XZ, planet.name: YVD, equal? false
+num steps from S2D to YVD
+orbited: YX8
+@name: S2D, planet.name: YVD, equal? false
+num steps from YX8 to YVD
+orbited: GPK
+@name: YX8, planet.name: YVD, equal? false
+num steps from GPK to YVD
+orbited: TQB
+@name: GPK, planet.name: YVD, equal? false
+num steps from TQB to YVD
+orbited: KKD
+@name: TQB, planet.name: YVD, equal? false
+num steps from KKD to YVD
+orbited: R7J
+@name: KKD, planet.name: YVD, equal? false
+num steps from R7J to YVD
+orbited: 8K4
+@name: R7J, planet.name: YVD, equal? false
+num steps from 8K4 to YVD
+orbited: LPX
+@name: 8K4, planet.name: YVD, equal? false
+num steps from LPX to YVD
+orbited: WFW
+@name: LPX, planet.name: YVD, equal? false
+num steps from WFW to YVD
+orbited: 5Z4
+@name: WFW, planet.name: YVD, equal? false
+num steps from 5Z4 to YVD
+orbited: XSR
+@name: 5Z4, planet.name: YVD, equal? false
+num steps from XSR to YVD
+orbited: Z7M
+@name: XSR, planet.name: YVD, equal? false
+num steps from Z7M to YVD
+orbited: XJF
+@name: Z7M, planet.name: YVD, equal? false
+num steps from XJF to YVD
+orbited: MDY
+@name: XJF, planet.name: YVD, equal? false
+num steps from MDY to YVD
+orbited: Z21
+@name: MDY, planet.name: YVD, equal? false
+num steps from Z21 to YVD
+orbited: NPG
+@name: Z21, planet.name: YVD, equal? false
+num steps from NPG to YVD
+orbited: DBS
+@name: NPG, planet.name: YVD, equal? false
+num steps from DBS to YVD
+orbited: QB4
+@name: DBS, planet.name: YVD, equal? false
+num steps from QB4 to YVD
+orbited: YQL
+@name: QB4, planet.name: YVD, equal? false
+num steps from YQL to YVD
+orbited: CFD
+@name: YQL, planet.name: YVD, equal? false
+num steps from CFD to YVD
+orbited: 91X
+@name: CFD, planet.name: YVD, equal? false
+num steps from 91X to YVD
+orbited: 5GG
+@name: 91X, planet.name: YVD, equal? false
+num steps from 5GG to YVD
+orbited: SMD
+@name: 5GG, planet.name: YVD, equal? false
+num steps from SMD to YVD
+orbited: 838
+@name: SMD, planet.name: YVD, equal? false
+num steps from 838 to YVD
+orbited: CLV
+@name: 838, planet.name: YVD, equal? false
+num steps from CLV to YVD
+orbited: YXJ
+@name: CLV, planet.name: YVD, equal? false
+num steps from YXJ to YVD
+orbited: 2Y9
+@name: YXJ, planet.name: YVD, equal? false
+num steps from 2Y9 to YVD
+orbited: 88R
+@name: 2Y9, planet.name: YVD, equal? false
+num steps from 88R to YVD
+orbited: 8T2
+@name: 88R, planet.name: YVD, equal? false
+num steps from 8T2 to YVD
+orbited: P5D
+@name: 8T2, planet.name: YVD, equal? false
+num steps from P5D to YVD
+orbited: 4V4
+@name: P5D, planet.name: YVD, equal? false
+num steps from 4V4 to YVD
+orbited: V76
+@name: 4V4, planet.name: YVD, equal? false
+num steps from V76 to YVD
+orbited: GHK
+@name: V76, planet.name: YVD, equal? false
+num steps from GHK to YVD
+orbited: STC
+@name: GHK, planet.name: YVD, equal? false
+num steps from STC to YVD
+orbited: QRW
+@name: STC, planet.name: YVD, equal? false
+num steps from QRW to YVD
+orbited: Q6C
+@name: QRW, planet.name: YVD, equal? false
+num steps from Q6C to YVD
+orbited: F38
+@name: Q6C, planet.name: YVD, equal? false
+num steps from F38 to YVD
+orbited: CF8
+@name: F38, planet.name: YVD, equal? false
+num steps from CF8 to YVD
+orbited: S1K
+@name: CF8, planet.name: YVD, equal? false
+num steps from S1K to YVD
+orbited: HGM
+@name: S1K, planet.name: YVD, equal? false
+num steps from HGM to YVD
+orbited: R98
+@name: HGM, planet.name: YVD, equal? false
+num steps from R98 to YVD
+orbited: 32B
+@name: R98, planet.name: YVD, equal? false
+num steps from 32B to YVD
+orbited: MTZ
+@name: 32B, planet.name: YVD, equal? false
+num steps from MTZ to YVD
+orbited: 5JJ
+@name: MTZ, planet.name: YVD, equal? false
+num steps from 5JJ to YVD
+orbited: 521
+@name: 5JJ, planet.name: YVD, equal? false
+num steps from 521 to YVD
+orbited: NRX
+@name: 521, planet.name: YVD, equal? false
+num steps from NRX to YVD
+orbited: CQ9
+@name: NRX, planet.name: YVD, equal? false
+num steps from CQ9 to YVD
+orbited: 6BJ
+@name: CQ9, planet.name: YVD, equal? false
+num steps from 6BJ to YVD
+orbited: 8VM
+@name: 6BJ, planet.name: YVD, equal? false
+num steps from 8VM to YVD
+orbited: SX7
+@name: 8VM, planet.name: YVD, equal? false
+num steps from SX7 to YVD
+orbited: 1N8
+@name: SX7, planet.name: YVD, equal? false
+num steps from 1N8 to YVD
+orbited: CNC
+@name: 1N8, planet.name: YVD, equal? false
+num steps from CNC to YVD
+orbited: 25T
+@name: CNC, planet.name: YVD, equal? false
+num steps from 25T to YVD
+orbited: 51F
+@name: 25T, planet.name: YVD, equal? false
+num steps from 51F to YVD
+orbited: LLW
+@name: 51F, planet.name: YVD, equal? false
+num steps from LLW to YVD
+orbited: 3LW
+@name: LLW, planet.name: YVD, equal? false
+num steps from 3LW to YVD
+orbited: YTN
+@name: 3LW, planet.name: YVD, equal? false
+num steps from YTN to YVD
+orbited: VH5
+@name: YTN, planet.name: YVD, equal? false
+num steps from VH5 to YVD
+orbited: VGS
+@name: VH5, planet.name: YVD, equal? false
+num steps from VGS to YVD
+orbited: 6SB
+@name: VGS, planet.name: YVD, equal? false
+num steps from 6SB to YVD
+orbited: 2TM
+@name: 6SB, planet.name: YVD, equal? false
+num steps from 2TM to YVD
+orbited: YR9
+@name: 2TM, planet.name: YVD, equal? false
+num steps from YR9 to YVD
+orbited: 8CM
+@name: YR9, planet.name: YVD, equal? false
+num steps from 8CM to YVD
+orbited: 9J1
+@name: 8CM, planet.name: YVD, equal? false
+num steps from 9J1 to YVD
+orbited: PZ1
+@name: 9J1, planet.name: YVD, equal? false
+num steps from PZ1 to YVD
+orbited: LX4
+@name: PZ1, planet.name: YVD, equal? false
+num steps from LX4 to YVD
+orbited: JDX
+@name: LX4, planet.name: YVD, equal? false
+num steps from JDX to YVD
+orbited: 42S
+@name: JDX, planet.name: YVD, equal? false
+num steps from 42S to YVD
+orbited: ZP1
+@name: 42S, planet.name: YVD, equal? false
+num steps from ZP1 to YVD
+orbited: HMZ
+@name: ZP1, planet.name: YVD, equal? false
+num steps from HMZ to YVD
+orbited: YMK
+@name: HMZ, planet.name: YVD, equal? false
+num steps from YMK to YVD
+orbited: 9NJ
+@name: YMK, planet.name: YVD, equal? false
+num steps from 9NJ to YVD
+orbited: P29
+@name: 9NJ, planet.name: YVD, equal? false
+num steps from P29 to YVD
+orbited: SCY
+@name: P29, planet.name: YVD, equal? false
+num steps from SCY to YVD
+orbited: 669
+@name: SCY, planet.name: YVD, equal? false
+num steps from 669 to YVD
+orbited: Z7V
+@name: 669, planet.name: YVD, equal? false
+num steps from Z7V to YVD
+orbited: TW1
+@name: Z7V, planet.name: YVD, equal? false
+num steps from TW1 to YVD
+orbited: LPB
+@name: TW1, planet.name: YVD, equal? false
+num steps from LPB to YVD
+orbited: 7R7
+@name: LPB, planet.name: YVD, equal? false
+num steps from 7R7 to YVD
+orbited: X9P
+@name: 7R7, planet.name: YVD, equal? false
+num steps from X9P to YVD
+orbited: 6CM
+@name: X9P, planet.name: YVD, equal? false
+num steps from 6CM to YVD
+orbited: T1L
+@name: 6CM, planet.name: YVD, equal? false
+num steps from T1L to YVD
+orbited: 87D
+@name: T1L, planet.name: YVD, equal? false
+num steps from 87D to YVD
+orbited: ZQ7
+@name: 87D, planet.name: YVD, equal? false
+num steps from ZQ7 to YVD
+orbited: 957
+@name: ZQ7, planet.name: YVD, equal? false
+num steps from 957 to YVD
+orbited: 6FJ
+@name: 957, planet.name: YVD, equal? false
+num steps from 6FJ to YVD
+orbited: D6H
+@name: 6FJ, planet.name: YVD, equal? false
+num steps from D6H to YVD
+orbited: KJ5
+@name: D6H, planet.name: YVD, equal? false
+num steps from KJ5 to YVD
+orbited: PCN
+@name: KJ5, planet.name: YVD, equal? false
+num steps from PCN to YVD
+orbited: 3NX
+@name: PCN, planet.name: YVD, equal? false
+num steps from 3NX to YVD
+orbited: SDB
+@name: 3NX, planet.name: YVD, equal? false
+num steps from SDB to YVD
+orbited: Z12
+@name: SDB, planet.name: YVD, equal? false
+num steps from Z12 to YVD
+orbited: 9HD
+@name: Z12, planet.name: YVD, equal? false
+num steps from 9HD to YVD
+orbited: 26V
+@name: 9HD, planet.name: YVD, equal? false
+num steps from 26V to YVD
+orbited: NRV
+@name: 26V, planet.name: YVD, equal? false
+num steps from NRV to YVD
+orbited: NXJ
+@name: NRV, planet.name: YVD, equal? false
+num steps from NXJ to YVD
+orbited: SH3
+@name: NXJ, planet.name: YVD, equal? false
+num steps from SH3 to YVD
+orbited: M5B
+@name: SH3, planet.name: YVD, equal? false
+num steps from M5B to YVD
+orbited: YYN
+@name: M5B, planet.name: YVD, equal? false
+num steps from YYN to YVD
+orbited: 4HL
+@name: YYN, planet.name: YVD, equal? false
+num steps from 4HL to YVD
+orbited: RVY
+@name: 4HL, planet.name: YVD, equal? false
+num steps from RVY to YVD
+orbited: WQ9
+@name: RVY, planet.name: YVD, equal? false
+num steps from WQ9 to YVD
+orbited: FV9
+@name: WQ9, planet.name: YVD, equal? false
+num steps from FV9 to YVD
+orbited: P74
+@name: FV9, planet.name: YVD, equal? false
+num steps from P74 to YVD
+orbited: QXY
+@name: P74, planet.name: YVD, equal? false
+num steps from QXY to YVD
+orbited: VMQ
+@name: QXY, planet.name: YVD, equal? false
+num steps from VMQ to YVD
+orbited: XM8
+@name: VMQ, planet.name: YVD, equal? false
+num steps from XM8 to YVD
+orbited: 6YK
+@name: XM8, planet.name: YVD, equal? false
+num steps from 6YK to YVD
+orbited: 4Z4
+@name: 6YK, planet.name: YVD, equal? false
+num steps from 4Z4 to YVD
+orbited: 3J3
+@name: 4Z4, planet.name: YVD, equal? false
+num steps from 3J3 to YVD
+orbited: LMV
+@name: 3J3, planet.name: YVD, equal? false
+num steps from LMV to YVD
+orbited: ZSJ
+@name: LMV, planet.name: YVD, equal? false
+num steps from ZSJ to YVD
+orbited: HWK
+@name: ZSJ, planet.name: YVD, equal? false
+num steps from HWK to YVD
+orbited: W1G
+@name: HWK, planet.name: YVD, equal? false
+num steps from W1G to YVD
+orbited: 89B
+@name: W1G, planet.name: YVD, equal? false
+num steps from 89B to YVD
+orbited: JS8
+@name: 89B, planet.name: YVD, equal? false
+num steps from JS8 to YVD
+orbited: 84K
+@name: JS8, planet.name: YVD, equal? false
+num steps from 84K to YVD
+orbited: YVD
+@name: 84K, planet.name: YVD, equal? false
+num steps from YVD to YVD
+orbited: GWM
+@name: YVD, planet.name: YVD, equal? true
+457

@@ -1,0 +1,116 @@
+class Instruction
+  def to_s
+    opcode = ["", "ADD", "MULTIPLY", "INPUT", "OUTPUT", "JUMP-IF-TRUE", "JUMP-IF-FALSE", "LESS-THAN", "EQUALS"][@opcode]
+    puts "@opcode: #{@opcode}, opcode: #{opcode}"
+    case @opcode
+    when 1, 2
+      p1mode = ["POSITION", "IMMEDIATE"][@p1mode.to_i]
+      p2mode = ["POSITION", "IMMEDIATE"][@p2mode.to_i]
+      return "Instruction #{@instruction_string} \n#{opcode} #{p1mode} and #{p2mode}"
+    when 3
+      return "Instruction #{@instruction_string} \n#{opcode} to position #{@write_addr}"
+    when 4
+      return "Instruction #{@instruction_string} \n#{opcode} #{@p1}"
+    when 5
+      return "Instruction #{@instruction_string} \n#{opcode} (#{@p1}) to #{@p2}"
+    when 6
+      return "Instruction #{@instruction_string} \n#{opcode} (#{@p1}) to #{@p2}"
+    when 7
+      return "Instruction #{@instruction_string} \n#{opcode} #{@p1} < #{@p2} to #{@p3}"
+    when 8
+      return "Instruction #{@instruction_string} \n#{opcode} #{@p1} == #{@p2} to #{@p3}"
+    when 99
+      return "That's all, folks!"
+    else
+      return "Blowing up in Instruction#to_s!"
+    end
+  end
+end
+
+class Program
+  def initialize(program_text)
+    @program_int_array = program_text.split(",").map(&:to_i)
+    @next_input = 'phase'
+  end
+
+  def execute_instruction_at(pos)
+    instruction_string = @program_int_array[pos].to_s.rjust(5, '0')
+    opcode = instruction_string[-2..-1].to_i
+    if [1, 2, 5, 6, 7, 8].include?(opcode)
+      p1mode = instruction_string[2]
+      p2mode = instruction_string[1]
+      p1 = (p1mode == '0' ? @program_int_array[@program_int_array[pos + 1]] : @program_int_array[pos + 1])
+      p2 = (p2mode == '0' ? @program_int_array[@program_int_array[pos + 2]] : @program_int_array[pos + 2])
+    end
+    if [1, 2, 3, 7, 8].include?(opcode)
+      write_addr = @program_int_array[pos + 3]
+    end
+    if opcode == 4
+      p1mode = instruction_string[2]
+      p1 = (p1mode == '0' ? @program_int_array[@program_int_array[pos + 1]] : @program_int_array[pos + 1])
+    end
+
+    case opcode
+    when 1
+      @program_int_array[write_addr] = p1 + p2
+    when 2
+      @program_int_array[write_addr] = p1 * p2
+    when 3
+      @program_int_array[write_addr] = (@next_input == 'phase' ? @phase : @initial)
+      @next_input = 'initial' if @next_input == 'phase'
+      puts "end of program: #{@program_int_array[15]}, #{@program_int_array[16]}"
+    when 4
+      puts "Output: #{p1}"
+    when 5, 6
+    when 7
+      @program_int_array[write_addr] = (p1 < p2 ? 1 : 0)
+    when 8
+      @program_int_array[write_addr] = (p1 == p2 ? 1 : 0)
+    when 99
+      puts "Halting..."
+      exit
+    else
+      puts "Blowing up in execute!"
+    end
+    return next_pos(pos, opcode)
+  end
+
+  def run(initial, phase)
+    @initial = initial
+    @phase = phase
+    next_pos = 0
+    while true
+      next_pos = execute_instruction_at(next_pos)
+    end
+  end
+
+  def next_pos(pos, opcode)
+    case opcode
+    when 1, 2, 7, 8
+      return pos + 4
+    when 3, 4
+      return pos + 2
+    when 5
+      return p1 != 0 ? p2 : pos + 3
+    when 6
+      return p1 == 0 ? p2 : pos + 3
+    else
+      puts "Blowing up in Program#next_pos"
+    end
+  end
+
+  def inspect
+    @instructions.map do |instruction|
+      "Opcode: #{instruction.opcode}"
+    end.join("\n")
+  end
+end
+
+file = File.open('/Users/scrozier/projects/advent/7/a/input.txt')
+program_text = file.readline.chomp
+program = Program.new(program_text)
+program.run(0, 0)
+
+exit
+
+# 9961446
