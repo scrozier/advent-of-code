@@ -3,6 +3,7 @@
 // BBFFBBFRLL: row 102, column 4, seat ID 820.
 
 const fs = require('fs');
+const { parse } = require('path');
 
 var inputData;
 try {
@@ -24,7 +25,11 @@ const boardingPasses = boardingPassesCoded.map(bp => {
   const row = parseInt(rowCode, 2);
   const col = parseInt(colCode, 2);
   console.log("row: %s, col: %s", row, col);
-  return {    code: bp,    row: row,    col: col,    seatId: (row * 8) + col
+  return {
+    code: bp,
+    row: row,
+    col: col,
+    seatId: (row * 8) + col
   };
 });
 
