@@ -1,4 +1,3 @@
-const { setupMaster } = require('cluster');
 const fs = require('fs');
 
 var inputData;
